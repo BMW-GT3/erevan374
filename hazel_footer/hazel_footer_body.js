@@ -1,0 +1,10 @@
+﻿document.write('<div class="C371421a2f0724529a2355dc73ffe8ed3">');
+document.write('<div class="C1986ce0a64ee4ddc916c5225ab30bdc1">');
+document.write('<div style="text-align:left;">');
+document.write('<span style ="font-family:\'Noto Sans\'; font-size: 14pt;color:rgba(0,0,0,1);">alexandro.art.s2008 ©2021-2022<br>');
+document.write('</span>');
+document.write('</div>');
+document.write('');
+document.write('</div>');
+document.write('');
+document.write('</div>');
